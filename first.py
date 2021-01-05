@@ -8,8 +8,8 @@ import csv
 
 
 driver = webdriver.Chrome("chromedriver")
-# driver.get("http://google.com/search?q=the+rock")
-driver.get("https://google.com/search?q=Best+Hollywood+Celebrities")
+driver.get("http://google.com/search?q=selena+gomez")
+# driver.get("https://google.com/search?q=Best+Hollywood+Celebrities")
 count = 0
 
 while True:
@@ -33,11 +33,17 @@ while True:
 		count += 1
 		time.sleep(random.randint(0, 2))
 		data = driver.find_elements_by_css_selector(".mod g-link a")
-		# g-link a > div:nth-child(2)
+		music_data = driver.find_elements_by_css_selector("div[class='scrt'] a")
 		social_links = []
 		social_links.append(name)
+
 		with open("first.csv", "a", newline="") as cf:
 			writer = csv.writer(cf, delimiter="|", )
+			for music in music_data:
+				social_links.append(music.get_attribute("text"))
+				social_links.append(music.get_attribute("href"))
+				print(music.get_attribute("text"), music.get_attribute("href"))
+		
 			for link in data:
 				social_links.append(link.get_attribute("text"))
 				social_links.append(link.get_attribute("href"))
@@ -58,10 +64,17 @@ while True:
 		count += 1
 		time.sleep(random.randint(0, 2))
 		data = driver.find_elements_by_css_selector(".mod g-link a")
+		music_data = driver.find_elements_by_css_selector("div[class='scrt'] a")
 		social_links = []
 		social_links.append(name)
+
 		with open("first.csv", "a", newline="") as cf:
 			writer = csv.writer(cf, delimiter="|", )
+			for music in music_data:
+				social_links.append(music.get_attribute("text"))
+				social_links.append(music.get_attribute("href"))
+				print(music.get_attribute("text"), music.get_attribute("href"))
+		
 			for link in data:
 				social_links.append(link.get_attribute("text"))
 				social_links.append(link.get_attribute("href"))
