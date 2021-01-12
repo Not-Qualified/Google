@@ -18,6 +18,9 @@ for line in lines:
 	driver.get(f"http://google.com/search?q={line}")
 	name = driver.find_element_by_css_selector("input[name='q']").get_attribute("value")
 	print(name)
+
+	title_name = driver.find_elements_by_css_selector("data-attrid='title' > span").get_attribute("text")
+	subtitle = driver.find_elements_by_css_selector("data-attrid='title' > span").get_attribute("text")
 	# Getting Data
 	# global count
 	# count += 1
