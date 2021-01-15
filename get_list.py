@@ -46,7 +46,20 @@ for line in lines:
 			f.write(img_data)
 			f.close()
 	except:
-		file_name = "None"
+		file_name = None
+
+	if(file_name == None):
+		try:
+			file_name = f"{title_name} - {subtitle}.jpg"
+			path = Path(__file__).parent / f"img/{file_name}"
+			image = driver.find_element_by_css_selector("g-img[data-attrid='image'] img").get_attribute("src").split(",")[1].replace(' ', '+')
+			img_data = base64.b64decode(image)
+
+			with path.open("wb") as f:
+				f.write(img_data)
+				f.close()
+		except:
+			file_name = "None"
 
 	social_links.append(file_name)
 
@@ -65,3 +78,5 @@ for line in lines:
 			social_links.append(link.get_attribute("href"))
 			print(link.get_attribute("text"), link.get_attribute("href"))
 		writer.writerow(social_links)
+
+driver.close()
