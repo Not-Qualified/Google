@@ -66,7 +66,7 @@ for line in lines:
 	
 
 
-	with open("new.csv", "a", newline="") as cf:
+	with open("database.csv", "a", newline="") as cf:
 		writer = csv.writer(cf, delimiter="|", )
 		for music in music_data:
 			social_links.append(music.get_attribute("text"))
