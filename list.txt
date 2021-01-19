@@ -1,161 +1,224 @@
-Sean Bean
-Mark Addy
-Nikolaj Coster-Waldau
-Michelle Fairley
-Lena Headey
-Emilia Clarke
-Iain Glen
-Harry Lloyd
-Kit Harington
-Richard Madden
-Sophie Turner
-Maisie Williams
-Alfie Allen
-Isaac Hempstead Wright
-Jack Gleeson
-Rory McCann
-Peter Dinklage
-Aidan Gillen
-Liam Cunningham
-John Bradley
-Stephen Dillane
-Carice van Houten
-James Cosmo
-Jerome Flynn
-Conleth Hill
-Sibel Kekilli
-Natalie Dormer
-Charles Dance
-Oona Chaplin
-Rose Leslie
-Joe Dempsie
-Kristofer Hivju
-Gwendoline Christie
-Iwan Rheon
-Hannah Murray
-Michiel Huisman
-Nathalie Emmanuel
-Dean-Charles Chapman
-Indira Varma
-Tom Wlaschiha
-Michael McElhatton
-Jonathan Pryce
-Jacob Anderson
-Julian Glover
-Kristian Nairn
-Mark Stanley
-Natalia Tena
-Art Parkinson
-Esmé Bianco
-Eugene Simon
-Nell Tiger Free
-Ron Donachie
-Donald Sumpter
-Amrita Acharia
-Roxanne McKee
-Gethin Anthony
-Dominic Carter
-Ian Gelder
-Jason Momoa[d]
-Francis Magee
-Elyes Gabel
-Wilko Johnson
-Ian McElhinney
-Luke Barnes
-Peter Vaughan
-Josef Altin
-Owen Teale
-Lino Facioli
-Kate Dickie
-Joseph Mawle
-Susan Brown
-Dar Salim
-Jamie Sives
-Emun Elliott
-Clive Mantle
-Mia Soteriou
-Miltos Yerolemou
-Finn Jones
-Ian Beattie
-Ben Hawkey
-Hafþór Júlíus Björnsson
-Eros Vlahos
-John Stahl
-Richard Dormer
-Brian Fortune
-Gerard Jordan
-Andy Beckwith
-Daniel Portman
-Ben Crompton
-Gemma Whelan
-Robert Pugh
-Tony Way
-Steven Cole
-Ralph Ineson
-Nonso Anozie
-Ian Hanmore
-Fintan McKeown
-Forbes KB
-Simon Armstrong
-Nicholas Blane
-Slavko Juraga
-Karl Davies
-Maisie Dee
-Tara Fitzgerald
-William & James Wilson
-Diana Rigg
-Ellie Kendrick
-Thomas Brodie-Sangster
-Noah Taylor
-Anton Lesser
-Ciarán Hinds
-Tobias Menzies
-Paul Kaye
-Clive Russell
-Mackenzie Crook
-Philip McGinley
-Dan Hildebrand
-Jamie Michie
-Kerry Ingram
-Paul Bentley
-Charlotte Hope
-Will Tudor
-Daniel Tuite
-Tim Plester
-Brenock O'Connor
-Roger Ashton-Griffiths
-Pedro Pascal
-Yuri Kolokolnikov
-Joseph Gatt
-Elizabeth Webster
-Joel Fry
-Rupert Vansittart
-Vladimir Furdik
-Max von Sydow
-Kae Alexander
-Faye Marsay
-Michael Condron
-Hannah Waddingham
-Rosabell Laurenti Sellers
-Jessica Henwick
-Keisha Castle-Hughes
-DeObia Oparei
-Alexander Siddig
-Toby Sebastian
-Ian Whyte
-Staz Nair
-Bella Ramsey
-Paul Rattray
-Richard E. Grant
-Joe Naufahu
-Essie Davis
-Leigh Gill
-Rob Callender
-Richard Rycroft
-Pilou Asbæk
-Tim McInnerny
-James Faulkner
-Tom Hopper
-Jim Broadbent
-Brendan Cowell
-Megan Parkinson
+Michael Jordan
+Oprah Winfrey
+Leonardo DiCaprio
+Jerry Seinfeld
+Steven Spielberg
+Spice Girls
+Harrison Ford
+Robin Williams
+Celine Dion
+The Rolling Stones
+Julia Roberts
+George Lucas
+Oprah Winfrey
+Tom Hanks
+Michael Jordan
+The Rolling Stones
+Tiger Woods
+Backstreet Boys
+Cher
+Steven Spielberg
+Tom Cruise
+Tiger Woods
+The Beatles
+Britney Spears
+Bruce Willis
+Michael Jordan
+Backstreet Boys
+NSYNC
+Oprah Winfrey
+Mel Gibson
+Britney Spears
+Tiger Woods
+Steven Spielberg
+Madonna
+U2
+NSYNC
+Mariah Carey
+Oprah Winfrey
+Michael Jordan
+Tom Hanks
+Jennifer Aniston
+Eminem//Dr. Dre
+Tiger Woods
+Steven Spielberg
+Jennifer Lopez
+Paul McCartney
+Ben Affleck
+Oprah Winfrey
+Tom Hanks
+The Rolling Stones
+Mel Gibson
+Tiger Woods
+Fiona Armstrong
+Tom Cruise
+The Rolling Stones
+J.K. Rowling
+Michael Jordan
+Bruce Springsteen
+Steven Spielberg
+Johnny Depp
+Oprah Winfrey
+Tiger Woods
+Mel Gibson
+George Lucas
+Shaquille O'Neal
+Steven Spielberg
+Johnny Depp
+Madonna
+Elton John
+Tom Cruise
+Tom Cruise
+The Rolling Stones
+Oprah Winfrey
+U2
+Tiger Woods
+Steven Spielberg
+Howard Stern
+50 Cent
+James Gandolfini
+Lorraine Bracco
+Edie Falco
+Michael Imperioli
+Jamie-Lynn Sigler
+Dan Brown
+Oprah Winfrey
+Tiger Woods
+Madonna
+The Rolling Stones
+Brad Pitt
+Johnny Depp
+Elton John
+Tom Cruise
+Jay-Z
+Steven Spielberg
+Oprah Winfrey
+Tiger Woods
+Angelina Jolie
+Beyoncé
+David Beckham
+Johnny Depp
+Jay-Z
+The Police
+J.K. Rowling
+Brad Pitt//Paula Deen
+Angelina Jolie
+Oprah Winfrey
+Madonna
+Beyoncé
+Tiger Woods
+Bruce Springsteen
+Steven Spielberg
+Jennifer Aniston
+Brad Pitt
+Kobe Bryant
+Oprah Winfrey
+Beyoncé
+James Cameron
+Lady Gaga
+Tiger Woods
+Britney Spears
+U2
+Sandra Bullock
+Johnny Depp
+Madonna
+Lady Gaga
+Oprah Winfrey
+Justin Bieber
+U2
+Elton John
+Tiger Woods
+Taylor Swift
+Bon Jovi
+Simon Cowell
+LeBron James
+Jennifer Lopez
+Oprah Winfrey
+Justin Bieber
+Rihanna
+Lady Gaga
+Britney Spears
+Kim Kardashian
+Katy Perry
+Tom Cruise
+Steven Spielberg
+Oprah Winfrey
+Lady Gaga
+Steven Spielberg
+Beyoncé
+Madonna
+Taylor Swift
+Bon Jovi
+Roger Federer
+Justin Bieber
+Ellen DeGeneres
+Beyoncé
+LeBron James
+Dr. Dre
+Oprah Winfrey
+Ellen DeGeneres
+Jay-Z
+Floyd Mayweather Jr.
+Rihanna
+Katy Perry
+Robert Downey Jr.
+Floyd Mayweather Jr.
+Manny Pacquiao
+Katy Perry
+//One Direction
+Howard Stern
+Garth Brooks
+James Patterson
+Robert Downey Jr.
+Taylor Swift
+Cristiano Ronaldo
+Taylor Swift
+One Direction
+James Patterson
+Cristiano Ronaldo
+Dr. Phil McGraw
+Kevin Hart
+Howard Stern
+Lionel Messi
+Adele
+Rush Limbaugh
+Sean 'Diddy' Combs
+Beyoncé
+J. K. Rowling
+Drake
+Cristiano Ronaldo
+The Weeknd
+Howard Stern
+Coldplay
+James Patterson
+LeBron James
+Floyd Mayweather
+George Clooney
+Kylie Jenner
+Judge Judy Sheindlin
+Dwayne Johnson
+U2
+Coldplay
+Lionel Messi
+Ed Sheeran
+Cristiano Ronaldo
+Taylor Swift
+Kylie Jenner
+Kanye West
+Lionel Messi
+Ed Sheeran
+Cristiano Ronaldo
+Neymar
+The Eagles
+Phil McGraw
+Saul Canelo Alvarez
+Cristiano Ronaldo
+Lionel Messi
+Tyler Perry
+Neymar
+Howard Stern
+LeBron James
+Dwayne Johnson
+Kylie Jenner
+Kanye West
+Roger Federer
